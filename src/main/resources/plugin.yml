@@ -7,12 +7,3 @@ api: ["1.0.0"]
 
 author: NycuRO
 description: Fix EntityBreakEvent for SynapseAPI
-commands:
-  fix:
-    description: Fix EntityBreakEvent for SynapseAPI
-    usage: "/fix"
-    permission: fix.inventory
-permissions:
-  fix.inventory:
-    description: "Fix EntityBreakEvent for SynapseAPI"
-    default: true
