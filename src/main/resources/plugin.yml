@@ -2,7 +2,7 @@
 name: SynapseFixInventory
 main: SynapseFixInventory.MainClass
 #remember version and api is string, don't write it like this: 1.0.0, or there will be an exception
-version: "1.0.0"
+version: "0.1dev"
 api: ["1.0.0"]
 
 author: NycuRO
