@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>nycuro</groupId>
 	<artifactId>nycuro</artifactId>
-	<version>0.1dev</version>
+	<version>1.0.0</version>
 	<name>SynapseFixInventory</name>
 	<description>Fix inventory and gamemode if you used SynapseAPI!</description>
 	<properties>
